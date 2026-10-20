@@ -12,7 +12,7 @@ I am a Ph.D. candidate in Mechanical and Aerospace Engineering at the University
 
 - [**ORBEX-A**](https://github.com/aaronjs99/orbex-a) — Adaptive tube model predictive control for orbital rendezvous and capture. [Paper](https://doi.org/10.1109/AERO63441.2025.11068695)
 - [**MACRO**](https://github.com/aaronjs99/macro) — Distributed allocation, motion planning, and attitude consensus for autonomous orbital assembly. [Paper](https://doi.org/10.1109/ICC54714.2021.9703189)
-- [**Manta-LMPC**](https://github.com/aaronjs99/learning-augmented-mpc) — Decentralized learning model predictive control for coordinated agents.
+- [**Manta-LMPC**](https://github.com/aaronjs99/manta-lmpc) — Decentralized learning model predictive control for coordinated agents.
 - [**SQuAT Plan**](https://github.com/aaronjs99/squat-plan) — Time-optimal, jerk-constrained trajectory planning for agile quadrotors.
 
 ## Background
